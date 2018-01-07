@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/stefancertic/.android/build-cache/3bd9cb151ae95354164cd32b3a8b0d5ebfa0a3e3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/stefancertic/Desktop/Offline/grcwallet/app/build/intermediates/pre-dexed/debug/classes_bf3aec00bf01905b064a49b7890e60b3df00e4c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stefancertic/.android/build-cache/4dee84433c416ca44cc831ccbb947f4d91276ed6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="/Users/stefancertic/Desktop/Offline/grcwallet/app/build/intermediates/pre-dexed/debug/classes_3003b3b82b76efb5bd9d5c3b4abbc538f23ac41e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stefancertic/.android/build-cache/1bea53d967f77dd0b023e55edb1e7d3f0ae936f7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="/Users/stefancertic/Desktop/Offline/grcwallet/app/build/intermediates/pre-dexed/debug/classes_4fe0d18b529b927f45bec0c48979f2804ad17fbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stefancertic/.android/build-cache/cabe94b2e4b7d9409e2226afbf5bdd9403c1e2d9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="/Users/stefancertic/Desktop/Offline/grcwallet/app/build/intermediates/pre-dexed/debug/classes_d8de8534e72589f6fd71d5fb768b87afb7f0065c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stefancertic/.android/build-cache/5617e6a77f9c377a89f8790b5b44aba706ed9328/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="/Users/stefancertic/Desktop/Offline/grcwallet/app/build/intermediates/pre-dexed/debug/classes_bfb60f8b7c7e0b9db1a000225d86b18788d3d900.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefancertic/Desktop/Offline/grcwallet/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/stefancertic/Desktop/Offline/grcwallet/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2e65517351ba2c9020996009513d93d49212d230/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stefancertic/.android/build-cache/2831cdaeeff9e773ff731252f7fc0e3caa6470d9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="/Users/stefancertic/Desktop/Offline/grcwallet/app/build/intermediates/pre-dexed/debug/classes_c0a6d63d37ca06af929573aa1f2a4bd265085971.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefancertic/Desktop/Offline/grcwallet/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3931c38f78a9ea284eeddb279d6fbad4f42d3fcf">
+        <dex dex="/Users/stefancertic/Desktop/Offline/grcwallet/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_146d2bdf84de404963b3c99d257da071567ee7f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stefancertic/.android/build-cache/6e870757ee522e47fac3c5725f153540d8effd24/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/stefancertic/Desktop/Offline/grcwallet/app/build/intermediates/pre-dexed/debug/classes_7312b2c973a42568d61c7db41eb9f06772e5ecb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stefancertic/.android/build-cache/dc2fc68ab1e70336569fa5190e6e1c73d9a73d7d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/stefancertic/Desktop/Offline/grcwallet/app/build/intermediates/pre-dexed/debug/classes_f05d481ac31179989fa735b634efbba6a4cb3761.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stefancertic/.android/build-cache/1d78d4fc3c2743869bc3d6ef6f1bcae8cc29c8e1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="/Users/stefancertic/Desktop/Offline/grcwallet/app/build/intermediates/pre-dexed/debug/classes_4f83b0e370a2d70d996232da5744f5dae4b227e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stefancertic/.android/build-cache/bf9447669ae2e5c87503ea02567ff14ba33c6cc8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="/Users/stefancertic/Desktop/Offline/grcwallet/app/build/intermediates/pre-dexed/debug/classes_0664d166295f7eecb3ad60a674f03d0a5a8ba81a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/stefancertic/Desktop/Offline/grcwallet/app/libs/AppRate_1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="418c7690cc2efd2d1de8327f400beeeebac7ecfb">
+        <dex dex="/Users/stefancertic/Desktop/Offline/grcwallet/app/build/intermediates/transforms/dex/debug/folders/1000/2/AppRate_1.1_34d1ab98a1ea435befb3c7489d94048e4df01aa2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stefancertic/.android/build-cache/d5760e55ab0335bbbd5f9b798c8e957f645e5fc0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6cf8f13d470972c00ecb19ebacb8780a2d151111">
+        <dex dex="/Users/stefancertic/Desktop/Offline/grcwallet/app/build/intermediates/pre-dexed/debug/classes_3249a64355d1dd1e9e78632d597268a7e29cf596.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stefancertic/Desktop/Offline/grcwallet/app/libs/AppRate_1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="418c7690cc2efd2d1de8327f400beeeebac7ecfb">
+        <dex dex="/Users/stefancertic/Desktop/Offline/grcwallet/app/build/intermediates/pre-dexed/debug/AppRate_1.1_34d1ab98a1ea435befb3c7489d94048e4df01aa2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stefancertic/.android/build-cache/651f8ad49f74886c5631116bea1623725f3fff40/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="/Users/stefancertic/Desktop/Offline/grcwallet/app/build/intermediates/pre-dexed/debug/classes_876a38f1b88419dcc2974cb7daf9f39d65d98d14.jar" />
+    </item>
+
+</items>
